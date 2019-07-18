@@ -1,0 +1,161 @@
+.header{
+	border: 10px solid black;
+   	min-height: 60px;
+   	background-color: violet;
+}
+.nav{
+	border: 10px solid black;
+   	min-height: 60px;
+    margin-top: 2px;
+    background-color: lightskyblue;
+}
+.wrapper {
+	overflow: hidden;
+}
+
+.part1 {
+   	min-height: 400px;
+    float: left;
+    width: 68%;
+    display: inline-block;
+    margin-top: 2px;
+}
+
+.top {
+	border: 5px solid black;
+   	min-height: 200px;
+   	margin-top: 2px;
+   	background-color: powderblue;
+}
+
+.bottom {
+	border: 5px solid black;
+   	min-height: 200px;
+   	margin-top: 2px;
+   	background-color: plum;
+}
+
+.part2 {
+	border: 10px solid black;
+   	min-height: 400px;
+    float: right;
+    width: 30%;
+    display: inline-block;
+    margin-top: 2px;
+    background-color: pink;
+}
+
+.footer {
+	border: 10px solid black;
+   	min-height: 60px;
+    margin-top: 2px;
+    background-color: violet;
+}
+.header2{
+	border: 5px solid black;
+	min-height: 60px;
+}
+.headerlogo{
+	border: 5px solid black;
+	min-height: 60px;
+	float: left;
+	width: 25%;
+	display: inline-block;
+	background-color: lightskyblue;
+
+}
+.banner{
+	border: 5px solid black;
+	min-height: 60px;
+	float: right;
+	width: 73%;
+	display: inline-block;
+    background-color: violet;
+}
+.bar{
+	border: 5px solid black;
+	min-height: 60px;
+	background-color: purple;
+}
+.left {
+	border: 10px solid black;
+	min-height: 310px;
+	float: left;
+	width: 25%;
+	background-color: hotpink;
+}
+
+.center {
+	min-height: 300px;
+	float: left;
+	width: 47%;
+}
+
+.centertop {
+	border: 5px solid black;
+	min-height: 100px;
+	background-color: plum;
+}
+
+.centermiddle {
+	min-height: 100px;
+	overflow: hidden;
+}
+
+.centerleft {
+	border: 5px solid black;
+	min-height: 100px;
+	float: left;
+	width: 48%;
+	background-color: pink
+}
+
+.centerright {
+	border: 5px solid black;
+	min-height: 100px;
+	float: right;
+	width: 48%;
+	background-color: powderblue;
+}
+
+.module {
+	border: 5px solid black;
+	min-height: 100px;
+	background-color: plum
+}
+
+.right {
+	border: 10px solid black;
+	min-height: 310px;
+	float: left;
+	width: 25%;
+	background-color: hotpink;
+}
+.footer2{
+	border: 5px solid black;
+	min-height: 60px;
+	background-color: violet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
